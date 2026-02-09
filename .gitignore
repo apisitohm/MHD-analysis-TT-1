@@ -34,9 +34,9 @@ __pycache__/
 *.pyc
 
 # Local Config (Keep config.example.json)
-config.json
-params.json
-# config.example.json
+# config.json
+# params.json
+config.example.json
 
 # IDE
 .vscode/
@@ -46,17 +46,14 @@ params.json
 logs/
 *.log
 
-# Data
-data/
-1275/
-
 # Exports
-.Exports/
 Exports/
 *.pdf
 *.png
 
+
 # Backups and temporary files
-.old/
 old/
 *copy.py
+*.pdf
+*.png

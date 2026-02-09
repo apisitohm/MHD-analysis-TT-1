@@ -1,0 +1,430 @@
+{
+    "GBP1T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 1 T"
+    },
+    "GBP1N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 1 N"
+    },
+    "GBP2T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 2 T"
+    },
+    "GBP2N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 2 N"
+    },
+    "GBP3T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 3 T"
+    },
+    "GBP3N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 3 N"
+    },
+    "GBP4T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 4 T"
+    },
+    "GBP4N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 4 N"
+    },
+    "GBP5T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 5 T"
+    },
+    "GBP5N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 5 N"
+    },
+    "GBP6T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 6 T"
+    },
+    "GBP6N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 6 N"
+    },
+    "GBP7T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 7 T"
+    },
+    "GBP7N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 7 N"
+    },
+    "GBP8T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 8 T"
+    },
+    "GBP8N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 8 N"
+    },
+    "GBP9T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 9 T"
+    },
+    "GBP9N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 9 N"
+    },
+    "GBP10T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 10 T"
+    },
+    "GBP10N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 10 N"
+    },
+    "GBP11T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 11 T"
+    },
+    "GBP11N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 11 N"
+    },
+    "GBP12T": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 12 T"
+    },
+    "GBP12N": {
+        "unit": "T",
+        "desc": "Poloidal magnetic field 12 N"
+    },
+    "F0": {
+        "unit": "Wb",
+        "desc": "Poloidal Flux 0"
+    },
+    "F2": {
+        "unit": "Wb",
+        "desc": "Poloidal Flux 2"
+    },
+    "F1": {
+        "unit": "Wb",
+        "desc": "Poloidal Flux 1"
+    },
+    "F4": {
+        "unit": "Wb",
+        "desc": "Poloidal Flux 4"
+    },
+    "F3": {
+        "unit": "Wb",
+        "desc": "Poloidal Flux 3"
+    },
+    "DIACD1A": {
+        "unit": "Wb",
+        "desc": "Diamagnetic loop 1A"
+    },
+    "DIACD1C": {
+        "unit": "Wb",
+        "desc": "Compensation loop 1C"
+    },
+    "DIAKL1B": {
+        "unit": "Wb",
+        "desc": "Diamagnetic loop 1B"
+    },
+    "DIAKL1C": {
+        "unit": "Wb",
+        "desc": "Compensation loop 1C"
+    },
+    "IP1": {
+        "unit": "A",
+        "desc": "Plasma current 1"
+    },
+    "IP2": {
+        "unit": "A",
+        "desc": "Plasma current 2"
+    },
+    "IOH1": {
+        "unit": "A",
+        "desc": "Ohmic heating current 1"
+    },
+    "IOH2": {
+        "unit": "A",
+        "desc": "Ohmic heating current 2"
+    },
+    "IT1": {
+        "unit": "A",
+        "desc": "Toroidal field current 1"
+    },
+    "IT2": {
+        "unit": "A",
+        "desc": "Toroidal field current 2"
+    },
+    "IV1": {
+        "unit": "A",
+        "desc": "Vertical field current 1"
+    },
+    "IV2": {
+        "unit": "A",
+        "desc": "Vertical field current 2"
+    },
+    "IF1": {
+        "unit": "A",
+        "desc": "Feedback current 1"
+    },
+    "IF2": {
+        "unit": "A",
+        "desc": "Feedback current 2"
+    },
+    "HA": {
+        "unit": "V",
+        "desc": "H-alpha signal"
+    },
+    "HCN1": {
+        "unit": "V",
+        "desc": "HCN signal HFS"
+    },
+    "HCN2": {
+        "unit": "V",
+        "desc": "HCN signal Center"
+    },
+    "HCN3": {
+        "unit": "V",
+        "desc": "HCN signal LFS"
+    },
+    "GP": {
+        "unit": "V",
+        "desc": "Gas puffing signal"
+    },
+    "G12": {
+        "unit": "V",
+        "desc": "Gas pressure"
+    },
+    "HF_V": {
+        "unit": "A",
+        "desc": "Feedback current control"
+    },
+    "VP0": {
+        "unit": "V",
+        "desc": "Flux loop 0"
+    },
+    "VP2": {
+        "unit": "V",
+        "desc": "Flux loop 2"
+    },
+    "VP1": {
+        "unit": "V",
+        "desc": "Flux loop 1"
+    },
+    "VP4": {
+        "unit": "V",
+        "desc": "Flux loop 4"
+    },
+    "VP3": {
+        "unit": "V",
+        "desc": "Flux loop 3"
+    },
+    "OBP12T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 12T (MHD-m)"
+    },
+    "OBP12N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 12N (MHD-m)"
+    },
+    "OBP1T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 1T (MHD-m)"
+    },
+    "OBP1N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 1N (MHD-m)"
+    },
+    "OBP2T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 2T (MHD-m)"
+    },
+    "OBP2N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 2N (MHD-m)"
+    },
+    "OBP3T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 3T (MHD-m)"
+    },
+    "OBP3N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 3N (MHD-m)"
+    },
+    "OBP4T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 4T (MHD-m)"
+    },
+    "OBP4N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 4N (MHD-m)"
+    },
+    "OBP5T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 5T (MHD-m)"
+    },
+    "OBP5N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 5N (MHD-m)"
+    },
+    "OBP6T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 6T (MHD-m)"
+    },
+    "OBP6N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 6N (MHD-m)"
+    },
+    "OBP7T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 7T (MHD-m)"
+    },
+    "OBP7N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 7N (MHD-m)"
+    },
+    "OBP8T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 8T (MHD-m)"
+    },
+    "OBP8N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 8N (MHD-m)"
+    },
+    "OBP9T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 9T (MHD-m)"
+    },
+    "OBP9N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 9N (MHD-m)"
+    },
+    "OBP10T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 10T (MHD-m)"
+    },
+    "OBP10N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 10N (MHD-m)"
+    },
+    "OBP11T": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 11T (MHD-m)"
+    },
+    "OBP11N": {
+        "unit": "V",
+        "desc": "Poloidal Mirrnov probe 11N (MHD-m)"
+    },
+    "M1T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 1T (MHD-n)"
+    },
+    "M2T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 2T (MHD-n)"
+    },
+    "M3T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 3T (MHD-n)"
+    },
+    "M4T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 4T (MHD-n)"
+    },
+    "M5T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 5T (MHD-n)"
+    },
+    "M6T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 6T (MHD-n)"
+    },
+    "M7T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 7T (MHD-n)"
+    },
+    "M8T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 8T (MHD-n)"
+    },
+    "M9T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 9T (MHD-n)"
+    },
+    "M10T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 10T (MHD-n)"
+    },
+    "M11T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 11T (MHD-n)"
+    },
+    "M12T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 12T (MHD-n)"
+    },
+    "M13T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 13T (MHD-n)"
+    },
+    "M14T": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 14T (MHD-n)"
+    },
+    "M1N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 1N (MHD-n)"
+    },
+    "M2N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 2N (MHD-n)"
+    },
+    "M3N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 3N (MHD-n)"
+    },
+    "M4N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 4N (MHD-n)"
+    },
+    "M5N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 5N (MHD-n)"
+    },
+    "M6N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 6N (MHD-n)"
+    },
+    "M7N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 7N (MHD-n)"
+    },
+    "M8N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 8N (MHD-n)"
+    },
+    "M9N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 9N (MHD-n)"
+    },
+    "M10N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 10N (MHD-n)"
+    },
+    "M11N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 11N (MHD-n)"
+    },
+    "M12N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 12N (MHD-n)"
+    },
+    "M13N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 13N (MHD-n)"
+    },
+    "M14N": {
+        "unit": "V",
+        "desc": "Toroidal Mirrnov probe 14N (MHD-n)"
+    }
+}
