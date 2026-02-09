@@ -248,7 +248,7 @@ class MainWindow(QMainWindow):
         layout.addWidget(self.method_combo)
 
         # Path Selection
-        self.path_input = QLineEdit(r"D:\TT1\Report TT-1 data\Sampling\1275")
+        self.path_input = QLineEdit(r"example/1275")
         self.path_input.setFixedWidth(300)
         self.path_input.setPlaceholderText("Data Path")
         self.path_input.setToolTip("Path to data files")
