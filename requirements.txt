@@ -1,0 +1,9 @@
+PySide6
+numpy
+scipy
+pandas
+matplotlib
+Pillow
+reportlab
+pyqtgraph
+mdsthin
