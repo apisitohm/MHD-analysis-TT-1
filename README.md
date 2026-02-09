@@ -33,8 +33,8 @@ Built with **PySide6** for a modern, responsive user interface and **NumPy/SciPy
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/mhd-analysis-program.git
-    cd mhd-analysis-program
+    git clone https://github.com/apisitohm/MHD-analysis-TT-1.git
+    cd MHD-analysis-TT-1
     ```
 
 2.  **Create a virtual environment** (Recommended):
